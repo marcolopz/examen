@@ -1,0 +1,18 @@
+{
+    "preguntas" : [
+        {   
+            "pregunta": "que es liderazgo?",
+            "alternativas":[
+                "A", "B","C","D"
+            ],
+            "respuesta": "B"
+        },
+        {   
+            "pregunta": "que es liderazgo?",
+            "alternativas":[
+                "A", "B","C","D"
+            ],
+            "respuesta": "B"
+        }
+    ]
+}
