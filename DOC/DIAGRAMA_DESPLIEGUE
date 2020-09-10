@@ -1,0 +1,13 @@
+@startuml
+
+node NAVEGADOR_WEB
+
+node HEROKU{
+[Juego de preguntas]
+}
+
+
+CLIENTE--NAVEGADOR_WEB
+NAVEGADOR_WEB--HEROKU
+
+@enduml
